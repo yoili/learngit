@@ -6,4 +6,6 @@ Creating a new branch is quick
 
 joker £¡ no del
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
+
