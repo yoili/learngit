@@ -9,3 +9,5 @@ joker £¡ no del
 
 Creating a new branch is quick AND simple.
 
+delete branch
+
